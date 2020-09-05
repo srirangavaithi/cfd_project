@@ -1,4 +1,4 @@
-# CFD Assignment - Unsteady Diffusion 
+# CFD Assignment - Unsteady Diffusion equation analysis
 ## Calculations: [Written Calculations](https://github.com/manuaatitya/cfd_project/blob/master/calculation.pdf)
 ### Contributors:
 - 111117058 Manu Aatitya R P
